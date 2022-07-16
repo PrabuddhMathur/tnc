@@ -1,0 +1,12 @@
+.tnc{
+        display: flex;
+        position: absolute;
+        bottom: 2%;
+        left: 85%;
+        /* width: 100%; */
+}
+.center {
+    display: flex;
+    height: 10  0px;
+    align-items: center;
+    }
